@@ -1,23 +1,21 @@
-# AKHIL_R
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Akhil Alan</h1>
+<h3 align="center">A passionate Open source Contributor & Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ALANAK777&label=Profile%20views&color=0e75b6&style=flat" alt="Akhil" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <a href="https://x.com/akhil_r777" target="blank"><img src="https://img.shields.io/twitter/follow/akhil_r777?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-- 🔭 I’m currently working on *Vexa Web App*
+- 🔭 I’m currently pursuing my *Engineering Graduate*
 
-- 🌱 I’m currently learning *DevOps*
+- 🌱 I’m currently learning *Web_Development*
 
-- 💬 Ask me about *Android , MEARN*
+- 💬 Ask me about *Andriod , MEARN*
 
-- 📫 How to reach me *rishavchanda0@gmail.com*
+- 📫 How to reach me *akhilalan444.com*
 
-- ⚡ Fun fact *I am Funny*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
